@@ -1,0 +1,142 @@
+@function rem($px){
+	@return $px/108px*1rem;
+}
+html,body{
+	font-family:"微软雅黑";
+	background: #f2f2f2;
+}
+.disappear{
+	display: none;
+}
+p{
+	margin: 0;
+}
+.all{
+	display: flex;
+	justify-content:space-around;
+	flex-wrap: wrap;
+	align-items:center;
+	.timer{
+	width: rem(570px);
+	margin: rem(100px);
+	height: rem(700px);
+	border-radius: rem(20px);
+		background: white;
+		.time-blue{
+			position: relative;
+			width: 100%;
+			height: rem(94px);/*1.16*/
+			border-radius: rem(20px) rem(20px) 0 0;
+			background: #3478f7;
+			/*3478f7*/
+			.blue-title{
+				display: flex;
+				justify-content:center;
+				align-items:center;
+				width:rem(180px);
+				height: rem(94px);
+				// border-radius: rem(20px) 0 0 0;
+					// background: yellow;
+				p{
+					color:white;
+					font-size: rem(32px);
+					cursor: default;
+				}
+			}
+			.blue-btn{
+				position: absolute;
+				top:rem(0px);
+				right:rem(0px);
+				width: rem(180px);
+				height: rem(94px);
+				display: flex;
+				justify-content:space-around;
+				align-items:center;
+				i{
+					width:rem(50px);
+					height: rem(50px);
+					background: blue;
+				}
+			}
+		}
+		.time-title{
+			width: 100%;
+			height: rem(140px);
+			input{
+				width: 100%;
+				height: rem(140px);
+				text-align: center;
+				background-color:transparent;
+				border:0;
+				outline: none;
+				font-size: rem(35px);
+			}
+		}
+		.time{
+			display: flex;
+			justify-content:center;
+			align-items:center;
+			width: 100%;
+			height: rem(200px);
+			.time-detail{
+				font-size: rem(120px);
+			}
+		}
+		.time-btn{
+			display: flex;
+			justify-content:center;
+			align-items:center;
+			flex-wrap:wrap;
+			width: 100%;
+			height: rem(260px);
+			.start{
+				width: 55%;
+				margin: rem(45px);
+				background: #3478F7;
+				color:white;
+				border: 0px;
+			}
+			.stop{
+				width: 30%;
+				background: #3478F7;
+			}
+			.reset{
+				width: 30%;
+				background: #3478F7;
+			}
+		}
+	}
+	.timer-add{
+		position: relative;
+		width: rem(570px);
+		margin: rem(100px);
+		height: rem(700px);
+		border-radius: rem(20px);
+		background: white;
+		.add-row{
+			position: absolute;
+			margin: auto;
+			left: 0;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			width: rem(420px);
+			height: rem(100px);
+			background: #f2f2f2;
+			z-index: 1;
+		}
+		.add-col{
+			position: absolute;
+			margin: auto;
+			left: 0;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			width: rem(100px);
+			height: rem(420px);
+			background: #f2f2f2;
+			z-index: 2;
+		}
+	}
+
+}

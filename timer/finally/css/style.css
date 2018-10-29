@@ -1,0 +1,1225 @@
+@font-face {
+  font-family: 'legalwise';
+  src:  url('fonts/legalwise.eot?ea6krf');
+  src:  url('fonts/legalwise.eot?ea6krf#iefix') format('embedded-opentype'),
+    url('fonts/legalwise.ttf?ea6krf') format('truetype'),
+    url('fonts/legalwise.woff?ea6krf') format('woff'),
+    url('fonts/legalwise.svg?ea6krf#legalwise') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="lw-"], [class*=" lw-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'legalwise' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.lw-repository-2:before {
+  content: "\e903";
+}
+.lw-repository:before {
+  content: "\e900";
+}
+.lw-repository-21:before {
+  content: "\e901";
+}
+.lw-repository-1:before {
+  content: "\e902";
+}
+.lw-statute-1:before {
+  content: "\e904";
+}
+.lw-statute:before {
+  content: "\e905";
+}
+.lw-think-tank:before {
+  content: "\e906";
+}
+.lw-think-tank-1:before {
+  content: "\e907";
+}
+.lw-think-tank-3:before {
+  content: "\e908";
+}
+.lw-think-tank-2:before {
+  content: "\e909";
+}
+.lw-schedule:before {
+  content: "\e90c";
+}
+.lw-schedule-1:before {
+  content: "\e90b";
+}
+.lw-schedule-2:before {
+  content: "\e90a";
+}
+.lw-news:before {
+  content: "\e913";
+}
+.lw-mail:before {
+  content: "\ea44";
+}
+.lw-read:before {
+  content: "\ea45";
+}
+.lw-not-read:before {
+  content: "\ea46";
+}
+.lw-case-income:before {
+  content: "\e90d";
+}
+.lw--income:before {
+  content: "\e90e";
+}
+.lw-income-1:before {
+  content: "\e90f";
+}
+.lw-income-2:before {
+  content: "\e910";
+}
+.lw-income-3:before {
+  content: "\e911";
+}
+.lw-income-4:before {
+  content: "\e912";
+}
+.lw-income-6:before {
+  content: "\e914";
+}
+.lw-income-5:before {
+  content: "\e915";
+}
+.lw-statistics:before {
+  content: "\e916";
+}
+.lw-statistics-1:before {
+  content: "\e917";
+}
+.lw-statistics-2:before {
+  content: "\e918";
+}
+.lw-statistics-3:before {
+  content: "\e919";
+}
+.lw-statistics-4:before {
+  content: "\e91a";
+}
+.lw-39:before {
+  content: "\e921";
+}
+.lw-37:before {
+  content: "\e920";
+}
+.lw-36:before {
+  content: "\e91f";
+}
+.lw-35:before {
+  content: "\e91e";
+}
+.lw-34:before {
+  content: "\e91d";
+}
+.lw-_1:before {
+  content: "\e91c";
+}
+.lw-33:before {
+  content: "\e91b";
+}
+.lw-Library:before {
+  content: "\e922";
+}
+.lw-local-library:before {
+  content: "\e923";
+}
+.lw-material-library:before {
+  content: "\e924";
+}
+.lw-32:before {
+  content: "\e925";
+}
+.lw--14:before {
+  content: "\e926";
+}
+.lw-_:before {
+  content: "\e927";
+}
+.lw-30:before {
+  content: "\e928";
+}
+.lw-contractSelect:before {
+  content: "\e929";
+}
+.lw-contract_expire:before {
+  content: "\e92a";
+}
+.lw-contract_overdue:before {
+  content: "\e92b";
+}
+.lw-contract_payment:before {
+  content: "\e92c";
+}
+.lw-contract_template_s:before {
+  content: "\e92d";
+}
+.lw-contract_management_icon:before {
+  content: "\e92e";
+}
+.lw-sidemenu_contract_on:before {
+  content: "\e92f";
+}
+.lw-sidemenu_am_contract:before {
+  content: "\e930";
+}
+.lw-as_inquire_psnlcontract:before {
+  content: "\e931";
+}
+.lw-uAssociated1:before {
+  content: "\e932";
+}
+.lw-29:before {
+  content: "\e933";
+}
+.lw--13:before {
+  content: "\e934";
+}
+.lw--21:before {
+  content: "\e935";
+}
+.lw--3:before {
+  content: "\e936";
+}
+.lw-28:before {
+  content: "\e937";
+}
+.lw-27:before {
+  content: "\e938";
+}
+.lw--12:before {
+  content: "\e939";
+}
+.lw-12:before {
+  content: "\e948";
+}
+.lw-13:before {
+  content: "\e947";
+}
+.lw--011:before {
+  content: "\e946";
+}
+.lw-14:before {
+  content: "\e945";
+}
+.lw-15:before {
+  content: "\e943";
+}
+.lw-16:before {
+  content: "\e944";
+}
+.lw--11:before {
+  content: "\e942";
+}
+.lw-17:before {
+  content: "\e941";
+}
+.lw-18:before {
+  content: "\e940";
+}
+.lw-20:before {
+  content: "\e93f";
+}
+.lw-19:before {
+  content: "\e93a";
+}
+.lw-23:before {
+  content: "\e93b";
+}
+.lw-24:before {
+  content: "\e93c";
+}
+.lw-25:before {
+  content: "\e93d";
+}
+.lw-26:before {
+  content: "\e93e";
+}
+.lw-web-c:before {
+  content: "\e949";
+}
+.lw-uniE904:before {
+  content: "\e94a";
+}
+.lw-11:before {
+  content: "\e94b";
+}
+.lw-22:before {
+  content: "\e94c";
+}
+.lw-31:before {
+  content: "\e94d";
+}
+.lw-41:before {
+  content: "\e94e";
+}
+.lw-51:before {
+  content: "\e94f";
+}
+.lw-61:before {
+  content: "\e950";
+}
+.lw-71:before {
+  content: "\e951";
+}
+.lw-entrust3:before {
+  content: "\e952";
+}
+.lw-entrust-1:before {
+  content: "\e953";
+}
+.lw-entrust-2:before {
+  content: "\e954";
+}
+.lw-entrust:before {
+  content: "\e955";
+}
+.lw-entrust1:before {
+  content: "\e956";
+}
+.lw-entrust2:before {
+  content: "\e957";
+}
+.lw-uniE93F:before {
+  content: "\e967";
+}
+.lw-2:before {
+  content: "\e966";
+}
+.lw-21:before {
+  content: "\e965";
+}
+.lw-1:before {
+  content: "\e964";
+}
+.lw-3:before {
+  content: "\e963";
+}
+.lw-4:before {
+  content: "\e962";
+}
+.lw-5:before {
+  content: "\e961";
+}
+.lw-6:before {
+  content: "\e960";
+}
+.lw-7:before {
+  content: "\e95f";
+}
+.lw-8:before {
+  content: "\e95d";
+}
+.lw--1:before {
+  content: "\e95c";
+  color: #515151;
+}
+.lw-9:before {
+  content: "\e95b";
+}
+.lw--2:before {
+  content: "\e95a";
+}
+.lw--01:before {
+  content: "\e959";
+}
+.lw-10:before {
+  content: "\e958";
+}
+.lw-company:before {
+  content: "\ea47";
+}
+.lw-company-1 .path1:before {
+  content: "\ea48";
+  color: rgb(0, 0, 0);
+}
+.lw-company-1 .path2:before {
+  content: "\ea49";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.lw-company-2:before {
+  content: "\ea4a";
+}
+.lw-grouping:before {
+  content: "\ea4b";
+}
+.lw-operation-log:before {
+  content: "\ea4c";
+}
+.lw-operation-log-1:before {
+  content: "\ea4d";
+  color: #585858;
+}
+.lw-flow:before {
+  content: "\ea4e";
+}
+.lw-flow-1:before {
+  content: "\ea4f";
+}
+.lw-flow-2:before {
+  content: "\ea50";
+}
+.lw-flow-3:before {
+  content: "\ea51";
+}
+.lw-power-3:before {
+  content: "\ea52";
+}
+.lw-power-4:before {
+  content: "\ea53";
+}
+.lw-power:before {
+  content: "\e96f";
+}
+.lw-power-1:before {
+  content: "\ea54";
+}
+.lw-power-2:before {
+  content: "\ea55";
+}
+.lw-power-5:before {
+  content: "\ea56";
+}
+.lw-framework-1:before {
+  content: "\e970";
+}
+.lw-framework:before {
+  content: "\e971";
+}
+.lw-custom:before {
+  content: "\e968";
+}
+.lw-custom-3:before {
+  content: "\e969";
+}
+.lw-custom2:before {
+  content: "\e96a";
+}
+.lw-custom-1:before {
+  content: "\e96b";
+}
+.lw-jurisdiction:before {
+  content: "\e96c";
+}
+.lw-user-management .path1:before {
+  content: "\e96d";
+  color: rgb(81, 81, 81);
+}
+.lw-user-management .path2:before {
+  content: "\ea57";
+  margin-left: -1em;
+  color: rgb(81, 81, 81);
+}
+.lw-user-management .path3:before {
+  content: "\ea58";
+  margin-left: -1em;
+  color: rgb(81, 81, 81);
+}
+.lw-user-management .path4:before {
+  content: "\ea59";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.lw-user-management .path5:before {
+  content: "\ea5a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.lw-user-management-1:before {
+  content: "\e96e";
+}
+.lw-massage-room:before {
+  content: "\e972";
+}
+.lw-massage-room-1:before {
+  content: "\e973";
+}
+.lw-my-:before {
+  content: "\e974";
+}
+.lw-my-bespeak:before {
+  content: "\e975";
+}
+.lw-my-bespeak-1:before {
+  content: "\e976";
+}
+.lw-all-bespeak:before {
+  content: "\e977";
+}
+.lw-meet-set-up:before {
+  content: "\e978";
+}
+.lw-management-1:before {
+  content: "\e979";
+}
+.lw-meetting:before {
+  content: "\e97a";
+}
+.lw-meeting:before {
+  content: "\e97b";
+}
+.lw-my-meet:before {
+  content: "\e97c";
+}
+.lw-meeting-apply:before {
+  content: "\e97d";
+}
+.lw-apply:before {
+  content: "\e97e";
+}
+.lw-apply-2:before {
+  content: "\e97f";
+}
+.lw-apply3:before {
+  content: "\e980";
+}
+.lw-all-meet:before {
+  content: "\e981";
+}
+.lw-all-meet-1:before {
+  content: "\e982";
+}
+.lw-wifi:before {
+  content: "\e983";
+}
+.lw-facility:before {
+  content: "\e985";
+}
+.lw-video:before {
+  content: "\e987";
+}
+.lw-camera:before {
+  content: "\e989";
+}
+.lw-whiteboard:before {
+  content: "\e98b";
+}
+.lw-chair:before {
+  content: "\e98c";
+}
+.lw-chair-1:before {
+  content: "\e98d";
+}
+.lw-sofa:before {
+  content: "\e98e";
+}
+.lw-seat:before {
+  content: "\e98f";
+}
+.lw-seat1:before {
+  content: "\e990";
+}
+.lw-uniE90B:before {
+  content: "\e991";
+}
+.lw-tea-water:before {
+  content: "\e992";
+}
+.lw-tea-watersvg:before {
+  content: "\e993";
+}
+.lw-fruit:before {
+  content: "\e994";
+}
+.lw-laptop:before {
+  content: "\e995";
+}
+.lw-laptop-1:before {
+  content: "\e996";
+}
+.lw-projector:before {
+  content: "\e997";
+}
+.lw-Projector-1:before {
+  content: "\e998";
+}
+.lw-display:before {
+  content: "\e984";
+}
+.lw-display-1:before {
+  content: "\e986";
+}
+.lw-sound-box:before {
+  content: "\e988";
+}
+.lw-Microphone:before {
+  content: "\e98a";
+}
+.lw-promote:before {
+  content: "\e999";
+}
+.lw-promote-1:before {
+  content: "\e99a";
+}
+.lw-auditor-1:before {
+  content: "\e99b";
+}
+.lw-promote-3:before {
+  content: "\e99c";
+}
+.lw-210:before {
+  content: "\e99d";
+}
+.lw-promote-4:before {
+  content: "\e99e";
+}
+.lw-promote-5:before {
+  content: "\e99f";
+}
+.lw-auditor-2:before {
+  content: "\e9a1";
+}
+.lw-mail-list:before {
+  content: "\e9a3";
+}
+.lw-auditor:before {
+  content: "\e9a4";
+}
+.lw-role:before {
+  content: "\ea5b";
+}
+.lw-role-1:before {
+  content: "\ea5c";
+}
+.lw-record-3:before {
+  content: "\e9a6";
+}
+.lw-record1:before {
+  content: "\e9a7";
+}
+.lw-record-4:before {
+  content: "\ea5d";
+}
+.lw-kpi-2:before {
+  content: "\e9a9";
+}
+.lw-kpi-1:before {
+  content: "\e9aa";
+}
+.lw-kpi:before {
+  content: "\e9ab";
+}
+.lw-record:before {
+  content: "\ea5e";
+}
+.lw-record-1:before {
+  content: "\ea5f";
+}
+.lw-record-2:before {
+  content: "\ea60";
+}
+.lw-change-record:before {
+  content: "\ea61";
+}
+.lw-change-record-1:before {
+  content: "\ea62";
+}
+.lw-change-record-2:before {
+  content: "\ea63";
+}
+.lw-dimission-1:before {
+  content: "\e9a0";
+}
+.lw-dimission:before {
+  content: "\e9a2";
+}
+.lw-hr:before {
+  content: "\ea64";
+}
+.lw-hr-1:before {
+  content: "\ea65";
+}
+.lw-hr-2:before {
+  content: "\ea66";
+}
+.lw-employee-files-3:before {
+  content: "\e9a5";
+}
+.lw-employee-files:before {
+  content: "\ea67";
+}
+.lw-employee-files-1:before {
+  content: "\ea68";
+}
+.lw-employee-files-2:before {
+  content: "\e9a8";
+}
+.lw-receivables:before {
+  content: "\e9ac";
+}
+.lw-receivables-1:before {
+  content: "\e9ad";
+}
+.lw-receivables-2:before {
+  content: "\e9ae";
+}
+.lw-invoice:before {
+  content: "\e9af";
+}
+.lw-invoice-1:before {
+  content: "\e9b0";
+}
+.lw-invoice-2:before {
+  content: "\e9b1";
+}
+.lw-invoice-3:before {
+  content: "\e9b2";
+}
+.lw-bill-management:before {
+  content: "\e9b3";
+}
+.lw-bill-management-1:before {
+  content: "\e9b4";
+}
+.lw-bill-management-2:before {
+  content: "\e9b5";
+}
+.lw-create-shortcut:before {
+  content: "\e9bf";
+}
+.lw-create-shortcut-1:before {
+  content: "\e9be";
+}
+.lw-create-shortcut-2:before {
+  content: "\e9bc";
+}
+.lw-oa:before {
+  content: "\e9bd";
+}
+.lw-system:before {
+  content: "\e9bb";
+}
+.lw-oa-1:before {
+  content: "\e9b9";
+}
+.lw-business:before {
+  content: "\e9ba";
+}
+.lw-workbench:before {
+  content: "\e9b8";
+}
+.lw-log:before {
+  content: "\e9c0";
+}
+.lw-log-1:before {
+  content: "\e9c1";
+}
+.lw-precheck-2 .path1:before {
+  content: "\e9c2";
+  color: rgb(44, 44, 44);
+}
+.lw-precheck-2 .path2:before {
+  content: "\ea69";
+  margin-left: -1em;
+  color: rgb(44, 44, 44);
+}
+.lw-precheck-2 .path3:before {
+  content: "\ea6a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.lw-precheck:before {
+  content: "\e9c3";
+}
+.lw-precheck_1:before {
+  content: "\e9c4";
+}
+.lw-contacts-2:before {
+  content: "\e9c5";
+}
+.lw-contacts-1:before {
+  content: "\e9c6";
+}
+.lw-contacts:before {
+  content: "\e9c7";
+}
+.lw-finance:before {
+  content: "\e9c9";
+}
+.lw-cost-1:before {
+  content: "\e9ca";
+}
+.lw-cost:before {
+  content: "\e9cb";
+}
+.lw-label-3:before {
+  content: "\e9cc";
+}
+.lw-log1:before {
+  content: "\e9cd";
+}
+.lw-log-2:before {
+  content: "\e9ce";
+}
+.lw-case-2:before {
+  content: "\e9cf";
+  color: #515151;
+}
+.lw-case:before {
+  content: "\e9d0";
+}
+.lw-customer:before {
+  content: "\1f342";
+}
+.lw-receive:before {
+  content: "\e9e0";
+}
+.lw-add-cases:before {
+  content: "\e9df";
+}
+.lw-doc-1:before {
+  content: "\e9de";
+}
+.lw-edit-doc:before {
+  content: "\e9dd";
+}
+.lw-doc-2:before {
+  content: "\e9dc";
+}
+.lw-case-log:before {
+  content: "\e9db";
+}
+.lw-case-log-1:before {
+  content: "\e9da";
+}
+.lw-case-log-2:before {
+  content: "\e9d9";
+}
+.lw-case-editlog-1:before {
+  content: "\e9d8";
+}
+.lw-case-createlog-2:before {
+  content: "\e9d7";
+}
+.lw-case-editlog--3:before {
+  content: "\e9d6";
+}
+.lw-case-lawyer:before {
+  content: "\e9d5";
+}
+.lw-case-lawyer-1:before {
+  content: "\e9d4";
+}
+.lw-case-type:before {
+  content: "\e9d3";
+}
+.lw-case-type-1:before {
+  content: "\e9d2";
+}
+.lw-case-type-2:before {
+  content: "\e9d1";
+}
+.lw-personal:before {
+  content: "\e9e1";
+}
+.lw-personal-1:before {
+  content: "\e9e2";
+}
+.lw-personal-2:before {
+  content: "\e9e3";
+}
+.lw-affairs:before {
+  content: "\e9e4";
+}
+.lw-administrative:before {
+  content: "\e9e5";
+}
+.lw-administrative-1:before {
+  content: "\e9e6";
+}
+.lw-penal-1:before {
+  content: "\e9e7";
+}
+.lw-penal:before {
+  content: "\e9e8";
+}
+.lw-lawsuits:before {
+  content: "\e9e9";
+}
+.lw-civil-suit:before {
+  content: "\e9ea";
+}
+.lw-add-customers:before {
+  content: "\e9eb";
+}
+.lw-add-customers-1:before {
+  content: "\e9ec";
+}
+.lw-add-customers-2:before {
+  content: "\e9ed";
+}
+.lw-add-customers-3:before {
+  content: "\e9ee";
+}
+.lw-add-customers1:before {
+  content: "\e9ef";
+}
+.lw-add-customers-11:before {
+  content: "\e9f0";
+}
+.lw-add-customers-21:before {
+  content: "\e9f1";
+}
+.lw-add-customers-31:before {
+  content: "\e9f2";
+}
+.lw-cus-tax:before {
+  content: "\e9f3";
+}
+.lw-cus-tax-1:before {
+  content: "\e9f4";
+}
+.lw-cus-tax-2:before {
+  content: "\e9f5";
+}
+.lw-cus-Business:before {
+  content: "\e9f6";
+}
+.lw-cus-Business-2:before {
+  content: "\e9f8";
+}
+.lw-customer-enable-1:before {
+  content: "\e9f7";
+}
+.lw-disable:before {
+  content: "\e9f9";
+}
+.lw-disable-1:before {
+  content: "\e9fa";
+}
+.lw-enable:before {
+  content: "\e9fb";
+}
+.lw-lalal:before {
+  content: "\e9fc";
+}
+.lw-con-work:before {
+  content: "\ea01";
+}
+.lw-con-work-1:before {
+  content: "\ea00";
+}
+.lw-con-work-2:before {
+  content: "\e9ff";
+}
+.lw-new-related-party:before {
+  content: "\e9fe";
+}
+.lw-new-related-party-2:before {
+  content: "\e9fd";
+}
+.lw-choose:before {
+  content: "\ea02";
+}
+.lw-choose-1:before {
+  content: "\ea03";
+}
+.lw-add-file:before {
+  content: "\ea04";
+}
+.lw-add-file-1:before {
+  content: "\ea06";
+}
+.lw-add-file-2:before {
+  content: "\ea08";
+}
+.lw-save:before {
+  content: "\ea0a";
+}
+.lw-save-1:before {
+  content: "\ea0c";
+}
+.lw-save-3:before {
+  content: "\ea0e";
+}
+.lw-save-2:before {
+  content: "\ea10";
+}
+.lw-create:before {
+  content: "\ea12";
+}
+.lw-create-1:before {
+  content: "\ea14";
+}
+.lw-create-2:before {
+  content: "\ea16";
+}
+.lw-minmize-1:before {
+  content: "\ea6b";
+}
+.lw-maxmize:before {
+  content: "\ea6c";
+}
+.lw-maxmize-1:before {
+  content: "\ea6d";
+}
+.lw-minmize:before {
+  content: "\ea6e";
+}
+.lw-close:before {
+  content: "\ea6f";
+}
+.lw-close-1:before {
+  content: "\ea70";
+}
+.lw-maxmize1:before {
+  content: "\ea1b";
+}
+.lw-maxmize-11:before {
+  content: "\ea1c";
+}
+.lw-minmize1:before {
+  content: "\ea05";
+}
+.lw-cus-contacts:before {
+  content: "\ea07";
+}
+.lw-cus-contacts-1:before {
+  content: "\ea09";
+}
+.lw-cus-contacts-2:before {
+  content: "\ea0b";
+}
+.lw-new-file:before {
+  content: "\ea0d";
+}
+.lw-new-file-1:before {
+  content: "\ea0f";
+}
+.lw-cus-new-file-2:before {
+  content: "\ea11";
+}
+.lw-cus-detailed:before {
+  content: "\ea13";
+}
+.lw-cus-detailed-1:before {
+  content: "\ea15";
+}
+.lw-cus-detailed-2:before {
+  content: "\ea17";
+}
+.lw-basic-1:before {
+  content: "\ea18";
+}
+.lw-cus-basic-2:before {
+  content: "\ea19";
+}
+.lw-basic:before {
+  content: "\ea1a";
+}
+.lw-print-preview:before {
+  content: "\ea1d";
+}
+.lw-print-preview-1:before {
+  content: "\ea22";
+}
+.lw-move:before {
+  content: "\ea23";
+}
+.lw-move-1:before {
+  content: "\ea71";
+}
+.lw-down:before {
+  content: "\ea27";
+}
+.lw-nullify:before {
+  content: "\ea2c";
+}
+.lw-nullify-1:before {
+  content: "\ea2d";
+}
+.lw-nullify-2:before {
+  content: "\ea32";
+}
+.lw-cancel:before {
+  content: "\ea33";
+}
+.lw-nullify-3:before {
+  content: "\ea36";
+}
+.lw-uniEA72:before {
+  content: "\ea72";
+}
+.lw-more:before {
+  content: "\ea3b";
+}
+.lw-more-1:before {
+  content: "\ea3c";
+}
+.lw-more-2:before {
+  content: "\ea3f";
+}
+.lw-add-person:before {
+  content: "\ea40";
+}
+.lw-add-person-1:before {
+  content: "\ea43";
+}
+.lw-add-person-2:before {
+  content: "\ea1e";
+}
+.lw-create1:before {
+  content: "\ea21";
+}
+.lw-create-11:before {
+  content: "\ea24";
+}
+.lw-create-21:before {
+  content: "\ea26";
+}
+.lw-submission:before {
+  content: "\ea35";
+}
+.lw-submission-1:before {
+  content: "\ea37";
+}
+.lw-submission-2:before {
+  content: "\ea38";
+}
+.lw-upload-files:before {
+  content: "\ea39";
+}
+.lw-upload-files-2:before {
+  content: "\ea3a";
+}
+.lw-copy:before {
+  content: "\ea3d";
+}
+.lw-copy-1:before {
+  content: "\ea3e";
+}
+.lw-copy-2:before {
+  content: "\ea41";
+}
+.lw-enable-1:before {
+  content: "\ea42";
+}
+.lw-disable-2:before {
+  content: "\ea1f";
+}
+.lw-new-enable:before {
+  content: "\ea20";
+}
+.lw-see:before {
+  content: "\ea73";
+}
+.lw-see-1:before {
+  content: "\ea25";
+}
+.lw-edit-2:before {
+  content: "\ea29";
+}
+.lw-edit-1:before {
+  content: "\ea2a";
+}
+.lw-edit:before {
+  content: "\ea2f";
+}
+.lw-del:before {
+  content: "\ea30";
+}
+.lw-office:before {
+  content: "\e95e";
+}
+.lw-database:before {
+  content: "\e9b7";
+}
+.lw-cogs:before {
+  content: "\e9b6";
+}
+.lw-company-label:before {
+  content: "\e9c8";
+}
+.lw-pencil:before {
+  content: "\ea74";
+}
+.lw-image:before {
+  content: "\ea75";
+}
+.lw-file-picture:before {
+  content: "\ea76";
+}
+.lw-folder-download:before {
+  content: "\ea77";
+}
+.lw-folder-upload:before {
+  content: "\ea78";
+}
+.lw-address-book:before {
+  content: "\ea79";
+}
+.lw-redo2:before {
+  content: "\ea7a";
+}
+.lw-bubbles2:before {
+  content: "\ea7b";
+}
+.lw-user-plus:before {
+  content: "\ea7c";
+}
+.lw-user-minus:before {
+  content: "\ea7d";
+}
+.lw-user-check:before {
+  content: "\ea7e";
+}
+.lw-spinner3:before {
+  content: "\ea7f";
+}
+.lw-spinner6:before {
+  content: "\ea80";
+}
+.lw-bin:before {
+  content: "\ea81";
+}
+.lw-tree:before {
+  content: "\ea82";
+}
+.lw-loop2:before {
+  content: "\ea83";
+}
+.lw-file-pdf:before {
+  content: "\eadf";
+}
+.lw-file-word:before {
+  content: "\eae1";
+}
+.lw-file-excel:before {
+  content: "\eae2";
+}
+.lw-libreoffice:before {
+  content: "\eae3";
+}
+.lw-add-folder:before {
+  content: "\ea28";
+}
+.lw-del-folder:before {
+  content: "\ea2b";
+}
+.lw-play:before {
+  content: "\ea2e";
+}
+.lw-pause:before {
+  content: "\ea31";
+}
+.lw-stop:before {
+  content: "\ea34";
+}
